@@ -1,0 +1,440 @@
+[
+    {
+        "code": "navigation-by-modules",
+        "name": "Navigation modules",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "landing-page",
+        "name": "Landing page",
+        "parent_code": "navigation-by-modules",
+        "is_active": true
+    },
+    {
+        "code": "setups-page",
+        "name": "Setups Page",
+        "parent_code": "navigation-by-modules",
+        "is_active": true
+    },
+    {
+        "code": "contacts",
+        "name": "Contacts",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "logo",
+        "name": "Logo",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "mega-menu",
+        "name": "Mega Menu",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "site-layout-style",
+        "name": "Site layout style",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "primary-left-nav",
+        "name": "Primary left navigation",
+        "parent_code": "navigation-by-modules",
+        "is_active": true
+    },
+    {
+        "code": "pick-list-inquiry-reason",
+        "name": "Inquiry reason pick list",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "general-inquiry",
+        "name": "General Inquiry",
+        "parent_code": "pick-list-inquiry-reason",
+        "is_active": true
+    },
+    {
+        "code": "footer-links",
+        "name": "Footer links",
+        "parent_code": "navigation-by-modules",
+        "is_active": true
+    },
+    {
+        "code": "social-media-links",
+        "name": "Social media links",
+        "parent_code": "navigation-by-modules",
+        "is_active": true
+    },
+    {
+        "code": "social-media-head-metadata",
+        "name": "social-media-head-metadata",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "og:type",
+        "name": "website",
+        "parent_code": "social-media-head-metadata",
+        "is_active": true
+    },
+    {
+        "code": "logo-css",
+        "name": "h-10 mx-auto w-auto",
+        "parent_code": "logo",
+        "is_active": true
+    },
+    {
+        "code": "bg-color",
+        "name": "bg-white",
+        "parent_code": "mega-menu",
+        "is_active": true
+    },
+    {
+        "code": "text-style",
+        "name": "text-gray-800 hover:bg-gray-200",
+        "parent_code": "mega-menu",
+        "is_active": true
+    },
+    {
+        "code": "carousel-component",
+        "name": "Carousel component",
+        "parent_code": "navigation-by-modules",
+        "is_active": false
+    },
+    {
+        "code": "application-hero",
+        "name": "Application Hero",
+        "parent_code": "navigation-by-modules",
+        "is_active": false
+    },
+    {
+        "code": "component-app-hero",
+        "name": "component-app-hero",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "component-instagram-post",
+        "name": "component-instagram-post",
+        "parent_code": null,
+        "is_active": false
+    },
+    {
+        "code": "layout-width",
+        "name": "lg:max-w-7xl mx-auto",
+        "parent_code": "site-layout-style",
+        "is_active": true
+    },
+    {
+        "code": "description",
+        "name": "Vairavan Koil Nagarathar Dharma Paribalana Sabhai",
+        "parent_code": "social-media-head-metadata",
+        "is_active": true
+    },
+    {
+        "code": "og:description",
+        "name": "Vairavan Koil Nagarathar Dharma Paribalana Sabhai",
+        "parent_code": "social-media-head-metadata",
+        "is_active": true
+    },
+    {
+        "code": "og:site_name",
+        "name": "Vairavan Koil Nagarathar Dharma Paribalana Sabhai",
+        "parent_code": "social-media-head-metadata",
+        "is_active": true
+    },
+    {
+        "code": "og:image",
+        "name": "https://unfhxtikftjwwvxiwjcs.supabase.co/storage/v1/object/public/assets/vairavankoil.jpeg",
+        "parent_code": "social-media-head-metadata",
+        "is_active": true
+    },
+    {
+        "code": "product-demo",
+        "name": "New Registration",
+        "parent_code": "pick-list-inquiry-reason",
+        "is_active": true
+    },
+    {
+        "code": "rpa-consulting",
+        "name": "Pooja",
+        "parent_code": "pick-list-inquiry-reason",
+        "is_active": true
+    },
+    {
+        "code": "hero-image",
+        "name": "https://unfhxtikftjwwvxiwjcs.supabase.co/storage/v1/object/public/assets/vairavankoil.jpeg",
+        "parent_code": "component-app-hero",
+        "is_active": true
+    },
+    {
+        "code": "primary-title",
+        "name": "Nagarathar Dharma Paribalana Sabhai",
+        "parent_code": "component-app-hero",
+        "is_active": true
+    },
+    {
+        "code": "secondary-title",
+        "name": "Vairavan Koil",
+        "parent_code": "component-app-hero",
+        "is_active": true
+    },
+    {
+        "code": "app-hero-description",
+        "name": "300 years old temple of Vairavan koil located in the central Sivanganga District maintained by Nagarathars",
+        "parent_code": "component-app-hero",
+        "is_active": true
+    },
+    {
+        "code": "component-carousel",
+        "name": "component-carousel",
+        "parent_code": null,
+        "is_active": false
+    },
+    {
+        "code": "og:title",
+        "name": "Vairavan Koil Nagarathar Dharma Paribalana Sabhai",
+        "parent_code": "social-media-head-metadata",
+        "is_active": true
+    },
+    {
+        "code": "app-page-head-title",
+        "name": "Vairavan Koil Nagarathar Dharma Paribalana Sabhai",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "copy-right",
+        "name": "© 2021 Vairavan Koil Nagarathar Dharma Paribalana Sabhai. All rights reserved.",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "logo-url",
+        "name": "https://unfhxtikftjwwvxiwjcs.supabase.co/storage/v1/object/public/brand-assets/templr-logo.svg",
+        "parent_code": "logo",
+        "is_active": true
+    },
+    {
+        "code": "popover-style",
+        "name": "narrow",
+        "parent_code": "mega-menu",
+        "is_active": true
+    },
+    {
+        "code": "logo-url-dark",
+        "name": "https://unfhxtikftjwwvxiwjcs.supabase.co/storage/v1/object/public/brand-assets/templr-logo.svg",
+        "parent_code": "logo",
+        "is_active": true
+    },
+    {
+        "code": "zodiac-star-code",
+        "name": "zodiac-star-code",
+        "parent_code": null,
+        "is_active": true
+    },
+    {
+        "code": "Anusam",
+        "name": "Anusam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Asuwathi",
+        "name": "Asuwathi",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Avittam",
+        "name": "Avittam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Ayilyam",
+        "name": "Ayilyam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Bharani",
+        "name": "Bharani",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Chithirai",
+        "name": "Chithirai",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Hastham",
+        "name": "Hastham",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Karthikai",
+        "name": "Karthikai",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Keettai",
+        "name": "Keettai",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Maham",
+        "name": "Maham",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "MirukaShirisam",
+        "name": "MirukaShirisam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Moolam",
+        "name": "Moolam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Pooradam",
+        "name": "Pooradam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Pooram",
+        "name": "Pooram",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Poorattathi",
+        "name": "Poorattathi",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Poosam",
+        "name": "Poosam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Karthigai",
+        "name": "Karthigai",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Magnam",
+        "name": "Magnam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "PunarPoosam",
+        "name": "PunarPoosam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Revathi",
+        "name": "Revathi",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Rohini",
+        "name": "Rohini",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Sathayam",
+        "name": "Sathayam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Swathi",
+        "name": "Swathi",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Thiruvathirai",
+        "name": "Thiruvathirai",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Thiruvonam",
+        "name": "Thiruvonam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Uthradam",
+        "name": "Uthradam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Uthram",
+        "name": "Uthram",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Uthrattathi",
+        "name": "Uthrattathi",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Visakam",
+        "name": "Visakam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Sadhayam",
+        "name": "Sadhayam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Uthiram",
+        "name": "Uthiram",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Uthirattathi",
+        "name": "Uthirattathi",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    },
+    {
+        "code": "Viruchigam",
+        "name": "Viruchigam",
+        "parent_code": "zodiac-star-code",
+        "is_active": true
+    }
+]
