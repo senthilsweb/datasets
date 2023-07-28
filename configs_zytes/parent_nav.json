@@ -272,6 +272,22 @@
         "is_action_button": false
     },
     {
+        "code": "cover-image-photo",
+        "href": "https://lztihcjfpbpkrcdtwsxg.supabase.co/storage/v1/object/public/assets/zytes.v8.isolates.png",
+        "icon": null,
+        "name": "Photo....",
+        "css_class": null,
+        "is_active": true,
+        "sort_order": 3,
+        "click_event": "noops",
+        "description": null,
+        "parent_code": null,
+        "iconBackground": null,
+        "iconForeground": null,
+        "nav_module_code": "application-hero",
+        "is_action_button": false
+    },
+    {
         "code": "sales",
         "href": "/sales",
         "icon": "icon-park-twotone:rocket-one",
