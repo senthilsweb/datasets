@@ -222,12 +222,6 @@
         "is_active": true
     },
     {
-        "code": "component-instagram-post",
-        "name": "component-instagram-post",
-        "parent_code": null,
-        "is_active": false
-    },
-    {
         "code": "layout-width",
         "name": "lg:max-w-7xl mx-auto",
         "parent_code": "site-layout-style",
