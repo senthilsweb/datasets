@@ -250,5 +250,11 @@
         "name": "component-carousel",
         "parent_code": null,
         "is_active": false
+    },
+     {
+        "code": "component-blog-post",
+        "name": "component-blog-post",
+        "parent_code": null,
+        "is_active": false
     }
 ]
