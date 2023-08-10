@@ -169,7 +169,7 @@
     },
     {
         "code": "logo-url",
-        "name": "https://lztihcjfpbpkrcdtwsxg.supabase.co/storage/v1/object/public/assets/zytes-logo-yello.svg",
+        "name": "https://lztihcjfpbpkrcdtwsxg.supabase.co/storage/v1/object/public/assets/fbmodel-templr.svg",
         "parent_code": "logo",
         "is_active": true
     },
