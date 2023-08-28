@@ -1,25 +1,37 @@
  [
+         {
+            "name": "Tripma",
+            "current" : false,
+            "description": "",
+            "href": "#"
+         },
         {
-            "name": "",
-            "app": "medcare",
+            "name": "Medcare",
+            "current" : true,
+            "description": "",
+            "href": "#"
+            "children" : [
+             {
+            "name": "Login",
+      
             "description": "",
             "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01.jpgp"
         },
         {
-            "name": "",
-            "app": "medcare",
+            "name": "Launcher",
+          
             "description": "",
             "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01a.jpg"
         },
         {
-            "name": "",
-            "app": "medcare",
+            "name": "Terms and Conditions",
+          
             "description": "",
             "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01b.jpg"
         },
         {
-            "name": "",
-            "app": "medcare",
+            "name": "Legal",
+          
             "description": "",
             "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01c.jpg"
         },
@@ -67,6 +79,8 @@
             "name": "Mountaintop",
             "description": "Some representative placeholder content for the second slide.",
             "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-10.jpg"
+        }
+            ]
         }
     ]
 
