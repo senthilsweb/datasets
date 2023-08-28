@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Login",
+    "current": true,
+    "description": "",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01.jpg"
+  },
+  {
+    "name": "Launcher",
+    "current": false,
+    "description": "",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01a.jpg"
+  },
+  {
+    "name": "Terms and Conditions",
+    "current": false,
+    "description": "",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01b.jpg"
+  },
+  {
+    "name": "App Info & Version",
+    "current": false,
+    "description": "",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-01c.jpg"
+  },
+  {
+    "name": "Left Navigation",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-02.jpg"
+  },
+  {
+    "name": "Settings",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-03.jpg"
+  },
+  {
+    "name": "Doctor's Profile",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-04.jpg"
+  },
+  {
+    "name": "Edit Doctor's Profile",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-05.jpg"
+  },
+  {
+    "name": "Clinical History",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-06.jpg"
+  },
+  {
+    "name": "Reports Search Filter",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-07.jpg"
+  },
+  {
+    "name": "Notifications",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-08.jpg"
+  },
+  {
+    "name": "Patient's Clinical History",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-09.jpg"
+  },
+  {
+    "name": "Patients",
+    "current": false,
+    "description": "Some representative placeholder content for the second slide.",
+    "href": "https://res.cloudinary.com/nathansweb/image/upload/v1692875534/apps-screenshots/medcare/medcare-10.jpg"
+  }
+]
