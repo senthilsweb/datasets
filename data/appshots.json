@@ -9,7 +9,7 @@
             "name": "Medcare",
             "current" : true,
             "description": "",
-            "href": "#"
+            "href": "#",
             "children" : [
              {
             "name": "Login",
