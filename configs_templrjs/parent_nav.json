@@ -16,7 +16,7 @@
         "is_action_button": true
     },
     {
-        "code": "resources-header-nav",
+        "code": "about-header-nav",
         "href": "/about",
         "icon": "icon-park-twotone:list-alphabet",
         "name": "About",
