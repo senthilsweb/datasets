@@ -1,12 +1,12 @@
 [
     {
-        "code": "blog-header-nav",
+        "code": "home-header-nav",
         "href": "#",
         "icon": "icon-park-twotone:more-app",
-        "name": "Blog",
+        "name": "Home",
         "css_class": null,
         "is_active": true,
-        "sort_order": 1,
+        "sort_order": 2,
         "click_event": null,
         "description": null,
         "parent_code": null,

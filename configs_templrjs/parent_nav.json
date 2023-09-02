@@ -144,10 +144,10 @@
         "is_action_button": false
     },
     {
-        "code": "pricing-header-nav",
+        "code": "blogs-header-nav",
         "href": "/#",
         "icon": "icon-park-twotone:finance",
-        "name": "Pricing",
+        "name": "Blog",
         "css_class": null,
         "is_active": true,
         "sort_order": 3,
