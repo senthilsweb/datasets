@@ -17,9 +17,9 @@
     },
     {
         "code": "resources-header-nav",
-        "href": "/blog",
+        "href": "/about",
         "icon": "icon-park-twotone:list-alphabet",
-        "name": "Resources",
+        "name": "About",
         "css_class": null,
         "is_active": true,
         "sort_order": 4,
@@ -145,7 +145,7 @@
     },
     {
         "code": "blogs-header-nav",
-        "href": "/#",
+        "href": "/blog",
         "icon": "icon-park-twotone:finance",
         "name": "Blog",
         "css_class": null,
