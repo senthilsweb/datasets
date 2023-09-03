@@ -1,7 +1,7 @@
 [
     {
         "code": "home-header-nav",
-        "href": "/docs",
+        "href": "/docs/getting-started",
         "icon": "icon-park-twotone:more-app",
         "name": "Docs",
         "css_class": null,
