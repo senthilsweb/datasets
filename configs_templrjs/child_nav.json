@@ -1,12 +1,12 @@
 [
     {
         "code": "home-header-nav",
-        "href": "#",
+        "href": "/docs",
         "icon": "icon-park-twotone:more-app",
-        "name": "Home",
+        "name": "Docs",
         "css_class": null,
         "is_active": true,
-        "sort_order": 2,
+        "sort_order": 5,
         "click_event": null,
         "description": null,
         "parent_code": null,
