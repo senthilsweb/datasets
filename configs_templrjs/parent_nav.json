@@ -50,7 +50,7 @@
     {
         "code": "team-header-code",
         "href": "/resume",
-        "icon": "icon-park-twotone:team",
+        "icon": "icon-park-twotone:id-card-v",
         "name": "Resume",
         "css_class": null,
         "is_active": true,
@@ -271,22 +271,6 @@
         "iconForeground": null,
         "nav_module_code": "application-hero",
         "is_action_button": true
-    },
-    {
-        "code": "company-header-nav",
-        "href": "/#",
-        "icon": "icon-park-twotone:building-three",
-        "name": "Company",
-        "css_class": null,
-        "is_active": false,
-        "sort_order": 0,
-        "click_event": null,
-        "description": null,
-        "parent_code": null,
-        "iconBackground": null,
-        "iconForeground": null,
-        "nav_module_code": "landing-page",
-        "is_action_button": false
     },
     {
         "code": "cover-image-video",
