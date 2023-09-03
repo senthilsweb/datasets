@@ -17,7 +17,7 @@
     },
     {
         "code": "about-header-nav",
-        "href": "/about",
+        "href": "/",
         "icon": "icon-park-twotone:user",
         "name": "About",
         "css_class": null,
@@ -53,7 +53,7 @@
         "icon": "icon-park-twotone:id-card-v",
         "name": "Resume",
         "css_class": null,
-        "is_active": true,
+        "is_active": false,
         "sort_order": 3,
         "click_event": null,
         "description": null,
