@@ -18,7 +18,7 @@
     {
         "code": "about-header-nav",
         "href": "/about",
-        "icon": "icon-park-twotone:list-alphabet",
+        "icon": "icon-park-twotone:user",
         "name": "About",
         "css_class": null,
         "is_active": true,
@@ -34,7 +34,7 @@
     {
         "code": "team-header-code",
         "href": "/books",
-        "icon": "icon-park-twotone:team",
+        "icon": "icon-park-twotone:bookshelf",
         "name": "Books",
         "css_class": null,
         "is_active": true,
