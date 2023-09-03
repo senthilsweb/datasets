@@ -1,21 +1,5 @@
 [
-    {
-        "code": "home-header-nav",
-        "href": "/docs/getting-started",
-        "icon": "icon-park-twotone:more-app",
-        "name": "Docs",
-        "css_class": null,
-        "is_active": true,
-        "sort_order": 5,
-        "click_event": null,
-        "description": null,
-        "parent_code": null,
-        "iconBackground": null,
-        "iconForeground": null,
-        "nav_module_code": "landing-page",
-        "is_action_button": false,
-        "is_footer_description": false
-    },
+    
     {
         "code": "company",
         "href": "/#",
