@@ -34,7 +34,7 @@
     {
         "code": "team-header-code",
         "href": "/books",
-        "icon": null,
+        "icon": "icon-park-twotone:team",
         "name": "Books",
         "css_class": null,
         "is_active": true,
